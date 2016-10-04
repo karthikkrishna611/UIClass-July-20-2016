@@ -7,4 +7,3 @@ hi every one
 add a new line 2
 
 add a new line
-
